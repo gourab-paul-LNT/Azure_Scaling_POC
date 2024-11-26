@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Azure_Scaling": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
